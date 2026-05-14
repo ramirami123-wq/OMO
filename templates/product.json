@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Quick & Easy to Use</span> – Create natural-looking brows effortlessly in just a few strokes.<br><br>\n\n<span style=\"font-weight: bold;\">🖊️ Dual-Ended Design</span> – Features a precision ink pen and blending brush for perfect shaping and filling.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Natural Hair-Like Strokes</span> – Fine tip helps draw realistic eyebrow hairs for a fuller look.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Long-Lasting & Smudge-Resistant</span> – Stays neat and beautiful throughout the day.\n\n</div>"
           }
         },
         "variant_picker": {
@@ -167,6 +167,20 @@
     },
     "1771945068374140eb": {
       "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_qXgDJE": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_qXgDJE"
+      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,
