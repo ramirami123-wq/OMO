@@ -140,6 +140,258 @@
         "padding_bottom": 72
       }
     },
+    "scrolling_promotion_jccKqq": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_fVmKCJ": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Perfect brows made simple",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_fVmKCJ"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#c9957f",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_fgfYEY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_b3PFdf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Effortless Brow Perfection",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_gCCik6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Achieve fuller, natural-looking eyebrows in minutes with our easy-to-use dual-ended eyebrow ink pen designed for precise shaping and blending.</p><h3></h3>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_b3PFdf",
+        "text_gCCik6"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1778507720_phpo4d0ac9hdaibaI5OWtb.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_4nRNFe": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_b3k3dG": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Natural beauty in every stroke",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_b3k3dG"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#c9957f",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_tYdr4w": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wtkYYn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Long-Lasting Beauty",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_zrrH6x": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Create smooth, hair-like strokes that stay fresh all day with a smudge-resistant formula made for everyday confidence.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wtkYYn",
+        "text_zrrH6x"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1778507720_phposggi8o33t2e4KXQ0LS.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "blocks_kKh4XV": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_c856904_DfyDnh": {
+          "type": "ai_gen_block_c856904",
+          "settings": {
+            "header_col_1": "Feature",
+            "header_col_2": "Benefit",
+            "header_col_3": "Details",
+            "row_1_col_1": "Dual-Ended Design",
+            "row_1_col_2": "Easy shaping & blending",
+            "row_1_col_3": "Precision pen with soft blending brush",
+            "row_2_col_1": "Natural Hair Strokes",
+            "row_2_col_2": "Fuller-looking brows",
+            "row_2_col_3": "Fine tip creates realistic eyebrow lines",
+            "row_3_col_1": "Long-Lasting Formula",
+            "row_3_col_2": "All-day confidence",
+            "row_3_col_3": "Smudge-resistant and lightweight",
+            "row_4_col_1": "Quick Application",
+            "row_4_col_2": "Saves time daily",
+            "row_4_col_3": "Easy to use for beginners and professionals",
+            "header_background": "#c9957f",
+            "header_text_color": "#ffffff",
+            "row_odd_background": "#f3f3f3",
+            "row_even_background": "#ffffff",
+            "cell_text_color": "#212326",
+            "border_color": "#d2d5d9",
+            "table_background": "#ffffff",
+            "desktop_width_percent": 100,
+            "header_font_size": 16,
+            "cell_font_size": 14,
+            "cell_padding": 16,
+            "border_width": 1,
+            "border_radius": 0,
+            "text_alignment": "left"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_c856904_DfyDnh"
+      ],
+      "name": "Benefits table",
+      "settings": {}
+    },
+    "faq_apniDL": {
+      "type": "faq",
+      "blocks": {
+        "question_xEmz6c": {
+          "type": "question",
+          "settings": {
+            "title": "Is the eyebrow pen easy to use?",
+            "text": "<p>Yes! The dual-ended design makes it simple to fill, shape, and blend your brows naturally, even for beginners.</p><h3></h3>"
+          }
+        },
+        "question_iFfC9A": {
+          "type": "question",
+          "settings": {
+            "title": "Can I create natural-looking brows?",
+            "text": "<p>Absolutely! The fine-tip pen helps create realistic hair-like strokes for fuller and more natural brows.</p><h3></h3>"
+          }
+        },
+        "question_XNGpdf": {
+          "type": "question",
+          "settings": {
+            "title": "Is it suitable for all skin types?",
+            "text": "<p>Yes, the product is suitable for most skin types and everyday use.</p><h3></h3><h3></h3>"
+          }
+        }
+      },
+      "block_order": [
+        "question_xEmz6c",
+        "question_iFfC9A",
+        "question_XNGpdf"
+      ],
+      "name": "t:sections.faq.presets.name",
+      "settings": {
+        "narrow": false,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -248,6 +500,12 @@
   "order": [
     "empty-space",
     "main",
+    "scrolling_promotion_jccKqq",
+    "image_with_text_fgfYEY",
+    "scrolling_promotion_4nRNFe",
+    "image_with_text_tYdr4w",
+    "blocks_kKh4XV",
+    "faq_apniDL",
     "product-recommendations",
     "1771945068374140eb",
     "guarantees_Yj7NaV",
