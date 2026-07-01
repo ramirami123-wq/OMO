@@ -255,66 +255,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_yDYbfr": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_HbJaGk": {
-          "type": "heading",
-          "settings": {
-            "heading": "BEFORE AND AFTER",
-            "heading_size": "h1",
-            "heading_tag": "h2"
-          }
-        },
-        "text_p8Pgij": {
-          "type": "text",
-          "settings": {
-            "text": "<p>You can see the results.Fast with zero efforts </p><p></p>",
-            "text_size": "typeset2",
-            "secondary_color": false
-          }
-        },
-        "button_9GdHHw": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_HbJaGk",
-        "text_p8Pgij",
-        "button_9GdHHw"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Screenshot_2026-05-15_232217.png",
-        "image_position": "center center",
-        "layout": "image_first",
-        "text_box_position": "middle",
-        "text_alignment": "left",
-        "image_ratio": "650px",
-        "enlarge_content": false,
-        "full_width": false,
-        "show_divider": false,
-        "image_behavior": "none",
-        "mobile_layout": "image_first",
-        "mobile_text_alignment": "left",
-        "mobile_image_ratio": "auto",
-        "enable_video_looping": false,
-        "use_custom_colors": false,
-        "colors_button_label": "#ffffff",
-        "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
-        "colors_background": "#ffffff",
-        "gradient_background": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_tYdr4w": {
       "type": "image-with-text",
       "blocks": {
@@ -565,7 +505,6 @@
     "scrolling_promotion_jccKqq",
     "image_with_text_fgfYEY",
     "scrolling_promotion_4nRNFe",
-    "image_with_text_yDYbfr",
     "image_with_text_tYdr4w",
     "blocks_kKh4XV",
     "faq_apniDL",
