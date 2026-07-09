@@ -305,6 +305,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -341,7 +342,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1778507720_phposggi8o33t2e4KXQ0LS.png",
+        "image": "shopify://shop_images/Screenshot_2026-07-01_141207.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
