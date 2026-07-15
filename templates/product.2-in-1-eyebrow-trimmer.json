@@ -261,7 +261,7 @@
         "heading_adnV68": {
           "type": "heading",
           "settings": {
-            "heading": "NATURAL. PRECISE. LONG-LASTING.",
+            "heading": "DEFINE EVERY ARCH",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -269,7 +269,7 @@
         "text_iPc8HE": {
           "type": "text",
           "settings": {
-            "text": "<p>Our micro-tip brow pen glides on smoothly to create hair-like strokes that fill, define, and enhance your brows with effortless precision. The smudge-proof, walerproof formula ensures all-day wear-from morning to night-so your brows stay flawless in every moment.</p>",
+            "text": "<p>Designed for precise, painless grooming, this 2-in-1 eyebrow trimmer helps you create clean, natural-looking brows anytime, anywhere.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -291,7 +291,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Screenshot_2026-05-15_231531.png",
+        "image": "shopify://shop_images/1780398729_phpic9l5egdbahu0MhzVIk.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -322,7 +322,7 @@
         "heading_wtkYYn": {
           "type": "heading",
           "settings": {
-            "heading": "Long-Lasting Beauty",
+            "heading": "Recharge Anytime, Anywhere",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -330,7 +330,7 @@
         "text_zrrH6x": {
           "type": "text",
           "settings": {
-            "text": "<p>Create smooth, hair-like strokes that stay fresh all day with a smudge-resistant formula made for everyday confidence.</p>",
+            "text": "<p>Never worry about replacing batteries. Simply recharge your 2-in-1 eyebrow trimmer using any USB port, laptop, PC, power bank, wall adapter, or car charger. Convenient, eco-friendly, and always ready when you need it.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -342,7 +342,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1778507720_phpqjm5t1u3kird5PR7l8v.png",
+        "image": "shopify://shop_images/1780398729_phphpj6ou6ebpq55Ce5ea0.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
