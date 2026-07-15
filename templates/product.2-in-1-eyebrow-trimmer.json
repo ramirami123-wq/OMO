@@ -178,7 +178,7 @@
         "heading_b3PFdf": {
           "type": "heading",
           "settings": {
-            "heading": "Effortless Brow Perfection",
+            "heading": "BEAUTIFUL BROWS SIMPLIFIED",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -186,7 +186,7 @@
         "text_gCCik6": {
           "type": "text",
           "settings": {
-            "text": "<p>Achieve fuller, natural-looking eyebrows in minutes with our easy-to-use dual-ended eyebrow ink pen designed for precise shaping and blending.</p><h3></h3>",
+            "text": "<p>Achieve salon-quality brows in minutes with our 2-in-1 eyebrow trimmer. Shape, trim, and define effortlessly for a flawless look every day.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -198,7 +198,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1778507720_phpo4d0ac9hdaibaI5OWtb.png",
+        "image": "shopify://shop_images/1780398729_phps31694k6vi4bfzwFqR7.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
