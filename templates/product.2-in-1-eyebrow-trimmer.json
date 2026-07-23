@@ -376,18 +376,18 @@
             "header_col_1": "Feature",
             "header_col_2": "Benefit",
             "header_col_3": "Details",
-            "row_1_col_1": "Dual-Ended Design",
-            "row_1_col_2": "Easy shaping & blending",
-            "row_1_col_3": "Precision pen with soft blending brush",
-            "row_2_col_1": "Natural Hair Strokes",
-            "row_2_col_2": "Fuller-looking brows",
-            "row_2_col_3": "Fine tip creates realistic eyebrow lines",
-            "row_3_col_1": "Long-Lasting Formula",
-            "row_3_col_2": "All-day confidence",
-            "row_3_col_3": "Smudge-resistant and lightweight",
-            "row_4_col_1": "Quick Application",
-            "row_4_col_2": "Saves time daily",
-            "row_4_col_3": "Easy to use for beginners and professionals",
+            "row_1_col_1": "Two-in-One Design",
+            "row_1_col_2": "Trim & shape with one tool",
+            "row_1_col_3": "Comb side trims and shapes, precision blade defines and cleans up",
+            "row_2_col_1": "Painless & Gentle",
+            "row_2_col_2": "Safe on sensitive skin",
+            "row_2_col_3": "Designed to glide smoothly without pulling or irritation",
+            "row_3_col_1": "Compact & Travel-Friendly",
+            "row_3_col_2": "Beauty on the go",
+            "row_3_col_3": "Sleek, lightweight, and easy to carry anywhere.",
+            "row_4_col_1": "Easy to Use",
+            "row_4_col_2": "Quick grooming for everyone",
+            "row_4_col_3": "Simple one-switch operation, ideal for beginners and pros",
             "header_background": "#c9957f",
             "header_text_color": "#ffffff",
             "row_odd_background": "#f3f3f3",
@@ -418,22 +418,22 @@
         "question_xEmz6c": {
           "type": "question",
           "settings": {
-            "title": "Is the eyebrow pen easy to use?",
-            "text": "<p>Yes! The dual-ended design makes it simple to fill, shape, and blend your brows naturally, even for beginners.</p><h3></h3>"
+            "title": "IS THE 2-IN-1 TRIMMER EASY TO USE?",
+            "text": "<p>Yes! The dual-ended design makes it simple to shape, trim, and define your eyebrows naturally, even for beginners.</p>"
           }
         },
         "question_iFfC9A": {
           "type": "question",
           "settings": {
-            "title": "Can I create natural-looking brows?",
-            "text": "<p>Absolutely! The fine-tip pen helps create realistic hair-like strokes for fuller and more natural brows.</p><h3></h3>"
+            "title": "IS IT SUITABLE FOR ALL SKIN TYPES?",
+            "text": "<p>Yes! The 2-in-1 trimmer is designed to be safe and gentle on all skin types, including sensitive skin.<br/>It trims without pulling or causing irritation, leaving your skin smooth and comfortable.</p><h3></h3>"
           }
         },
         "question_XNGpdf": {
           "type": "question",
           "settings": {
-            "title": "Is it suitable for all skin types?",
-            "text": "<p>Yes, the product is suitable for most skin types and everyday use.</p><h3></h3><h3></h3>"
+            "title": "IS IT PAINLESS?",
+            "text": "<p>Yes! The 2-in-1 trimmer is designed to be painless and gentle. It trims hair smoothly without pulling, tugging, or causing discomfort.</p><h3></h3><h3></h3>"
           }
         }
       },
