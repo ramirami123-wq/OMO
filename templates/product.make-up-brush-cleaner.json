@@ -418,22 +418,22 @@
         "question_xEmz6c": {
           "type": "question",
           "settings": {
-            "title": "Is the eyebrow pen easy to use?",
-            "text": "<p>Yes! The dual-ended design makes it simple to fill, shape, and blend your brows naturally, even for beginners.</p><h3></h3>"
+            "title": "1. How often should I clean my makeup brushes?",
+            "text": "<p>For best results, clean your brushes once a week to remove makeup buildup, oils, and bacteria.</p>"
           }
         },
         "question_iFfC9A": {
           "type": "question",
           "settings": {
-            "title": "Can I create natural-looking brows?",
-            "text": "<p>Absolutely! The fine-tip pen helps create realistic hair-like strokes for fuller and more natural brows.</p><h3></h3>"
+            "title": "Can this cleaner be used on all types of makeup brushes?",
+            "text": "<p>Yes! It's safe for both natural and synthetic bristles, helping keep your brushes soft and in excellent condition.</p><h3></h3>"
           }
         },
         "question_XNGpdf": {
           "type": "question",
           "settings": {
-            "title": "Is it suitable for all skin types?",
-            "text": "<p>Yes, the product is suitable for most skin types and everyday use.</p><h3></h3><h3></h3>"
+            "title": "Does it remove waterproof makeup?",
+            "text": "<p>Yes, the formula effectively removes foundation, concealer, eyeshadow, and most waterproof makeup residues with ease.</p><h3></h3><h3></h3>"
           }
         }
       },
