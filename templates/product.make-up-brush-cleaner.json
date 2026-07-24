@@ -178,7 +178,7 @@
         "heading_b3PFdf": {
           "type": "heading",
           "settings": {
-            "heading": "Effortless Brow Perfection",
+            "heading": "Effortless Brush Cleaning",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -186,7 +186,7 @@
         "text_gCCik6": {
           "type": "text",
           "settings": {
-            "text": "<p>Achieve fuller, natural-looking eyebrows in minutes with our easy-to-use dual-ended eyebrow ink pen designed for precise shaping and blending.</p><h3></h3>",
+            "text": "<p>Keep your makeup brushes fresh, hygienic, and ready to use with our powerful makeup brush cleaner. It removes makeup residue, oil, and dirt in minutes while protecting soft bristles, helping extend the life of your favorite brushes for a flawless makeup application every time.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -198,7 +198,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1778507720_phpo4d0ac9hdaibaI5OWtb.png",
+        "image": "shopify://shop_images/1762263483_phpji7518sp7a8afupMeqs.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
