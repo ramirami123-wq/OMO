@@ -261,7 +261,7 @@
         "heading_adnV68": {
           "type": "heading",
           "settings": {
-            "heading": "NATURAL. PRECISE. LONG-LASTING.",
+            "heading": "DEEP CLEAN. FAST DRY. FLAWLESS",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -269,7 +269,7 @@
         "text_iPc8HE": {
           "type": "text",
           "settings": {
-            "text": "<p>Our micro-tip brow pen glides on smoothly to create hair-like strokes that fill, define, and enhance your brows with effortless precision. The smudge-proof, walerproof formula ensures all-day wear-from morning to night-so your brows stay flawless in every moment.</p>",
+            "text": "<p>Say goodbye to dirty makeup brushes. Our automatic makeup brush cleaner removes stubborn makeup, oil, and impurities in minutes while protecting delicate bristles. Enjoy cleaner brushes, healthier skin, and flawless makeup application every time—quickly, effortlessly, and without the mess.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -291,7 +291,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Screenshot_2026-05-15_231531.png",
+        "image": "shopify://shop_images/1762263482_php0sm68imu98m2971wwdE.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -322,7 +322,7 @@
         "heading_wtkYYn": {
           "type": "heading",
           "settings": {
-            "heading": "Long-Lasting Beauty",
+            "heading": "Clean Brushes, Better Skin.",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -330,7 +330,7 @@
         "text_zrrH6x": {
           "type": "text",
           "settings": {
-            "text": "<p>Create smooth, hair-like strokes that stay fresh all day with a smudge-resistant formula made for everyday confidence.</p>",
+            "text": "<p>Dirty makeup brushes can collect makeup, oil, and impurities over time. Our makeup brush cleaner delivers a deep yet gentle clean in just minutes, keeping your brushes soft, fresh, and ready to use. Enjoy flawless makeup application while helping protect your skin with every clean.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -342,7 +342,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1778507720_phpqjm5t1u3kird5PR7l8v.png",
+        "image": "shopify://shop_images/1762263482_php0td3hjoka5g58i89xfw.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -376,18 +376,18 @@
             "header_col_1": "Feature",
             "header_col_2": "Benefit",
             "header_col_3": "Details",
-            "row_1_col_1": "Dual-Ended Design",
-            "row_1_col_2": "Easy shaping & blending",
-            "row_1_col_3": "Precision pen with soft blending brush",
-            "row_2_col_1": "Natural Hair Strokes",
-            "row_2_col_2": "Fuller-looking brows",
-            "row_2_col_3": "Fine tip creates realistic eyebrow lines",
-            "row_3_col_1": "Long-Lasting Formula",
-            "row_3_col_2": "All-day confidence",
-            "row_3_col_3": "Smudge-resistant and lightweight",
-            "row_4_col_1": "Quick Application",
-            "row_4_col_2": "Saves time daily",
-            "row_4_col_3": "Easy to use for beginners and professionals",
+            "row_1_col_1": "Automatic Cleaning",
+            "row_1_col_2": "Fast & effortless",
+            "row_1_col_3": "Cleans makeup brushes in just minutes.",
+            "row_2_col_1": "Deep Cleansing",
+            "row_2_col_2": "Removes buildup",
+            "row_2_col_3": "Eliminates makeup residue, oil, dirt, and impurities.",
+            "row_3_col_1": "Gentle Brush Care",
+            "row_3_col_2": "Protects bristles",
+            "row_3_col_3": "Cleans thoroughly without damaging soft brush fibers.",
+            "row_4_col_1": "Quick Drying",
+            "row_4_col_2": "Ready to use faster",
+            "row_4_col_3": "Helps brushes dry quickly for your next makeup routine.",
             "header_background": "#c9957f",
             "header_text_color": "#ffffff",
             "row_odd_background": "#f3f3f3",
